@@ -24,4 +24,3 @@ Internet Banking Management System (IBMS) is a web-based application developed u
 
 ---
 
-## 📂 Project Structure
